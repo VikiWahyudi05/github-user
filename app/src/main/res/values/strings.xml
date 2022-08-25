@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GitHubUsers</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="img_user_detail">Img User Detail</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="menu1">Favorite</string>
+    <string name="menu2">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="img_user_main">Img User Main</string>
+    <string name="img_user_list">Img User List</string>
+    <string name="img_splashscreen">Img Splash Screen</string>
+    <string name="search">Search</string>
+    <string name="add_success">Ditambahkan ke favorite</string>
+    <string name="delete_success">Dihapus dari favorite</string>
+</resources>
